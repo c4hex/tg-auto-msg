@@ -3,7 +3,7 @@ import os
 from telethon.sync import TelegramClient
 from telethon.tl.types import InputPeerChannel, InputPeerChat
 
-# --- GİRİŞ BİLGİLERİ (DEVELOPED BY C4HEX) ---
+# --- GİRİŞ BİLGİLERİ ---
 API_ID = 'API_ID'
 API_HASH = 'API_HASH'
 SESSION_NAME = 'c4hex_session'
